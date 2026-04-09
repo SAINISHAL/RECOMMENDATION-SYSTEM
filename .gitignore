@@ -1,0 +1,12 @@
+# Datasets
+*.csv
+*.zip
+
+# ML Models (Too large for GitHub)
+similarity.pkl
+*.pkl
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.env
